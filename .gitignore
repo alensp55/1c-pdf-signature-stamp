@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+tmp/
+*.py[cod]
+*.log
+*.pdf
+*.cer
+*.crt
+*.key
+*.pfx
+*.p12
+*.sig
+*.epf
+*.cfe
+*.env
+*.json
+!examples/job.example.json

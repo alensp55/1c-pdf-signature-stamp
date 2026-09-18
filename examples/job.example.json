@@ -1,0 +1,13 @@
+{
+  "input_pdf": "input.pdf",
+  "output_pdf": "output.pdf",
+  "certificate": "0000000000000000000000000000000000000000",
+  "owner": "ПОЛЬЗОВАТЕЛЬ",
+  "valid_until": "31.12.2099",
+  "power_of_attorney": "00000000-0000-0000-0000-000000000000",
+  "pages": "all",
+  "stamp_width_ratio": 0.49,
+  "stamp_height": 100,
+  "left_margin": 40,
+  "bottom_margin": 60
+}
