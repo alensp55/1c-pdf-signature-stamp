@@ -4,6 +4,14 @@
 
 > Штамп не создаёт, не проверяет и не подтверждает электронную подпись. В самом штампе это указано явно.
 
+## Интерфейс
+
+![Настройка штампа](assets/stamp-settings.png)
+
+![Предпросмотр PDF](assets/pdf-preview.png)
+
+![Пакетная обработка](assets/batch-processing.png)
+
 ## Состав
 
 - `src/pdf_signature_stamp.py` — обработка PDF;
